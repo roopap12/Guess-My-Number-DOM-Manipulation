@@ -1,3 +1,3 @@
 # Guess-My-Number-DOM-Manipulation
 
-Watch the Udemy videos 70-78 (which you can access [here](https://canvas.instructure.com/courses/4724864/files/folder/Sprint%204%20Resources)) and enjoy building this cool game to learn about DOM manipulation! 🔥
+Watch the videos (which you can access [here](https://www.loom.com/share/5e3dad2404ba4322bcb6fc6ba2b3fa7a)) and enjoy building this cool game to learn about DOM manipulation! 🔥
